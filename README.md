@@ -1,6 +1,6 @@
 # Hi, I'm Scott aka Griv 👋
 
-I'm a Software Engineer who is passionate about learning and creating new technologies. I'm constantly learning new languages, frameworks, and approaches. I enjoy traversing across multiple disciplines and fields to come up with creative solutions with my projects. I'm also passionate about helping people on Stack Overflow, contributing to the Open Source community here on GitHub, and teaching people about technology around the Web. 
+I'm a Software Engineer who is passionate about learning and creating new technologies. I'm constantly learning new languages, frameworks, and approaches. I enjoy traversing across multiple disciplines and fields to come up with creative solutions with my projects. I'm also passionate about helping people on Stack Overflow, contributing to the open source community here on GitHub, and teaching people about technology around the Web. 
 
 <h3 align="left"><b>Feel free to reach out to me:</b></h3>
 <p align="left">
