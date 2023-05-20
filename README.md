@@ -5,6 +5,7 @@ I'm a Software Engineer & Architect who is passionate about learning and creatin
 <h3 align="left"><b>Feel free to reach out to me:</b></h3>
 <p align="left">
 <a href="https://www.scottgrivner.dev" target="_blank"><img align="center" src="https://imgur.com/ecx5iwn.png" alt="3092847" height="40" width="40" /></a>
+<a href="https://github.com/scottgriv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="scottgriv" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3092847" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3092847" height="30" width="40" /></a>
  <a href="https://codepen.io/scottgriv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="scottgriv" height="30" width="40" /></a>
  <a href="https://medium.com/@scottgrivner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@scottgrivner" height="30" width="40" /></a>
