@@ -1,6 +1,11 @@
 # Hi, I'm Scott aka Griv 👋
 
-I'm a Software Engineer & Architect who is passionate about learning and creating new technologies. I'm constantly learning new languages, frameworks, and approaches. I enjoy traversing across multiple disciplines and fields to come up with creative solutions with my projects. I'm also passionate about helping people on Stack Overflow, contributing to the open source community here on GitHub, and teaching people about technology around the Web.
+I'm a Software Engineer & Architect who is passionate about learning and creating new technologies. 
+- I'm constantly learning new languages, frameworks, and approaches. 
+- I enjoy traversing across multiple disciplines and fields to come up with creative solutions with my projects. 
+- I apply [First Principles](https://en.wikipedia.org/wiki/First_principle) thinking to question every assumption of a problem in order to unlock previously unknown solutions. 
+- I'm also passionate contributing to the open source community on [GitHub](https://github.com/), helping people solve technical problems on [Stack Overflow](https://stackoverflow.com/), and teaching people about technology around the [Web](https://en.wikipedia.org/wiki/World_Wide_Web).
+
 
 <h3 align="left"><b>Feel free to reach out to me:</b></h3>
 <p align="left">
