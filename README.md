@@ -5,6 +5,7 @@ I'm a Software Engineer, Architect, Designer, and Educator.
     - I have a personal goal to make a project for every language and major framework that I learn (follow me to see my journey!).
 - I enjoy traversing across multiple disciplines and fields (inside and outside of Computer Science) to come up with creative solutions with my projects. 
 - I apply [First Principles](https://en.wikipedia.org/wiki/First_principle) thinking to question every assumption of a problem in order to unlock previously unknown solutions. 
+- I'm not just passionate about clean code and architecture, but also the overall User Experience (UX) and User Interface (UI) of my projects.
 - I'm also passionate about contributing to the open source community on [GitHub](https://github.com/scottgriv), helping people solve technical problems on [Stack Overflow](https://stackoverflow.com/users/3092847), and teaching people about technology around the Web.
 
 <h3 align="center"><b>Check out my Projects!</b></h3>
