@@ -2,7 +2,7 @@
 
 I'm a Software Engineer, Architect, Designer, and Educator.
 - I'm constantly learning new languages, frameworks, approaches, and technologies to solve problems in new and creative ways.
-    - I have a personal goal to make a project for every language and major framework that I learn (follow me to see my journey!).
+- I have a personal goal to make a project for every language and major framework that I learn (follow me to see my journey!).
 - I enjoy traversing across multiple disciplines and fields (inside and outside of Computer Science) to come up with creative solutions with my projects. 
 - I apply [First Principles](https://en.wikipedia.org/wiki/First_principle) thinking to question every assumption of a problem in order to unlock previously unknown solutions. 
 - I'm not just passionate about clean code and architecture, but also the overall User Experience (UX) and User Interface (UI) of my projects.
