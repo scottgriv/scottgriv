@@ -10,10 +10,26 @@ I'm a Software Engineer, Architect, Designer, and Educator.
 
 <h3 align="center"><b>Check out my Projects!</b></h3>
 <div align="center">
-<a href="https://reciperesizer.com" target="_blank"><img src="./docs/images/recipe-resizer-banner_small.png"/></a>
-<a href="https://github.com/scottgriv/Post.e" target="_blank"><img src="./docs/images/poste-banner_small.png"/></a>
-<a href="https://github.com/scottgriv/Palm-Tree" target="_blank"><img src="./docs/images/palm-tree-banner_small.png"/></a>
-<a href="https://github.com/scottgriv/River-Charts" target="_blank"><img src="./docs/images/river-charts-banner_small.png"/></a>
+    <div>
+        <a href="https://reciperesizer.com" target="_blank">
+            <img src="./docs/images/recipe-resizer-banner_small.png"/>
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/scottgriv/Post.e" target="_blank">
+            <img src="./docs/images/poste-banner_small.png"/>
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/scottgriv/Palm-Tree" target="_blank">
+            <img src="./docs/images/palm-tree-banner_small.png"/>
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/scottgriv/River-Charts" target="_blank">
+            <img src="./docs/images/river-charts-banner_small.png"/>
+        </a>
+    </div>
 </div>
 <h3 align="center"><b>Feel free to reach out to me or check out my other content:</b></h3>
 <p align="center">
