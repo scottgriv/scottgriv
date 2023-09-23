@@ -12,22 +12,27 @@ I'm a Software Engineer, Architect, Designer, and Educator.
 <div align="center">
     <div>
         <a href="https://reciperesizer.com" target="_blank">
-            <img src="./docs/images/recipe-resizer-banner_small.png"/>
+            <img src="./docs/images/recipe-resizer-banner_small-rounded.png"/>
         </a>
     </div>
     <div>
         <a href="https://github.com/scottgriv/Post.e" target="_blank">
-            <img src="./docs/images/poste-banner_small.png"/>
+            <img src="./docs/images/post-e-banner_small-rounded.png"/>
         </a>
     </div>
     <div>
         <a href="https://github.com/scottgriv/Palm-Tree" target="_blank">
-            <img src="./docs/images/palm-tree-banner_small.png"/>
+            <img src="./docs/images/palm-tree-banner_small-rounded.png"/>
         </a>
     </div>
     <div>
         <a href="https://github.com/scottgriv/River-Charts" target="_blank">
-            <img src="./docs/images/river-charts-banner_small.png"/>
+            <img src="./docs/images/river-charts-banner_small-rounded.png"/>
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines" target="_blank">
+            <img src="./docs/images/prg-banner_small-rounded.png"/>
         </a>
     </div>
 </div>
