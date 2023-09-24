@@ -17,7 +17,7 @@ I'm a Software Engineer, Architect, Designer, and Educator.
             <img src="./docs/images/post-e-banner_small-rounded.png"/>
         </a>
         <a href="https://github.com/scottgriv/Palm-Tree" target="_blank">
-            <img src="./docs/images/palm-tree-banner_small-rounded.png" style="width: 44.6%;"/>
+            <img src="./docs/images/palm-tree-banner_small-rounded.png"/>
         </a>
         <a href="https://github.com/scottgriv/River-Charts" target="_blank">
             <img src="./docs/images/river-charts-banner_small-rounded.png"/>
