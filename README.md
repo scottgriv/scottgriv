@@ -47,7 +47,7 @@ I'm a Software Engineer, Architect, Designer, and Educator.
 - I'm passionate not only about clean code and architecture but also about the overall User Experience (UX) and User Interface (UI) of my projects. 
 - Additionally, I actively contribute to the open source community on [GitHub](https://github.com/scottgriv), help fellow devs solve technical problems on [Stack Overflow](https://stackoverflow.com/users/3092847), and educate others about technology around the Web.
 
-<h2 align="center"><b>Check out my Projects!</b></h2>
+<h2 align="center"><b>Click on my projects below to see more!</b></h2>
 <div align="center">
         <a href="https://reciperesizer.com" target="_blank">
             <img src="./docs/images/recipe-resizer-banner_small-rounded.png"/>
