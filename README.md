@@ -1,5 +1,38 @@
 # Hi, I'm Scott aka Griv 👋
 
+<p align="center">
+    <a href="mailto:scott.grivner@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-contact_me-DC4233?style=for-the-badge&logo=gmail" alt="Email Badge" />
+    </a>
+    <a href="https://linkedin.com/in/scottgrivner/">
+        <img src="https://img.shields.io/badge/linkedin-connect-0B65C2?style=for-the-badge&logo=linkedin&color=0B65C2" alt="LinkedIn Badge" />
+    </a>
+    <a href="https://github.com/scottgriv">
+        <img src="https://img.shields.io/badge/github-follow-9031AC?style=for-the-badge&logo=github&color=9031AC" alt="GitHub Badge" />
+    </a>
+    <a href="https://stackoverflow.com/users/3092847">
+        <img src="https://img.shields.io/badge/stackoverflow-up_vote-FF7F1F?style=for-the-badge&logo=stackoverflow&color=FF7F1F" alt="Stack Overflow Badge" />
+    </a>
+    <a href="https://codepen.io/scottgriv">
+        <img src="https://img.shields.io/badge/codepen-follow-FFFFFF?style=for-the-badge&logo=codepen&color=FFFFFF" alt="Codepen Badge" />
+    </a>
+    <a href="https://medium.com/@scottgrivner">
+        <img src="https://img.shields.io/badge/medium-follow-34AA46?style=for-the-badge&logo=medium&color=34AA46" alt="Medium Badge" />
+    </a>
+    <a href="https://twitter.com/scottgrivner">
+        <img src="https://img.shields.io/badge/X-follow-000000?style=for-the-badge&logo=x&color=000000" alt="X Badge" />
+    </a>
+    <a href="https://www.youtube.com/@scottgrivner">
+        <img src="https://img.shields.io/badge/youtube-subscribe-FF1612?style=for-the-badge&logo=youtube&color=FF1612" alt="YouTube Badge" />
+    </a>
+    <a href="https://www.buymeacoffee.com/scottgriv">
+        <img src="https://img.shields.io/badge/buy me a coffee-support-DC4233?style=for-the-badge&logo=buymeacoffee&color=ffdd00" alt="BuyMeACoffee Badge" />
+    </a>
+    <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">
+        <img src="https://img.shields.io/badge/PRG-Optimized-6236FF?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iMjYuMDAwMDAwcHQiIGhlaWdodD0iMzQuMDAwMDAwcHQiIHZpZXdCb3g9IjAgMCAyNi4wMDAwMDAgMzQuMDAwMDAwIgogcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCI+Cgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwzNC4wMDAwMDApIHNjYWxlKDAuMTAwMDAwLC0wLjEwMDAwMCkiCmZpbGw9IiNGRkZGRkYiIHN0cm9rZT0ibm9uZSI+CjxwYXRoIGQ9Ik0xMiAzMjggYy04IC04IC0xMiAtNTEgLTEyIC0xMzUgMCAtMTA5IDIgLTEyNSAxOSAtMTQwIDQyIC0zOCA0OAotNDIgNTkgLTMxIDcgNyAxNyA2IDMxIC0xIDEzIC03IDIxIC04IDIxIC0yIDAgNiAyOCAxMSA2MyAxMyBsNjIgMyAwIDE1MCAwCjE1MCAtMTE1IDMgYy04MSAyIC0xMTkgLTEgLTEyOCAtMTB6IG0xMDIgLTc0IGMtNiAtMzMgLTUgLTM2IDE3IC0zMiAxOCAyIDIzCjggMjEgMjUgLTMgMjQgMTUgNDAgMzAgMjUgMTQgLTE0IC0xNyAtNTkgLTQ4IC02NiAtMjAgLTUgLTIzIC0xMSAtMTggLTMyIDYKLTIxIDMgLTI1IC0xMSAtMjIgLTE2IDIgLTE4IDEzIC0xOCA2NiAxIDc3IDAgNzIgMTggNzIgMTMgMCAxNSAtNyA5IC0zNnoKbTExNiAtMTY5IGMwIC0yMyAtMyAtMjUgLTQ5IC0yNSAtNDAgMCAtNTAgMyAtNTQgMjAgLTMgMTQgLTE0IDIwIC0zMiAyMCAtMTgKMCAtMjkgLTYgLTMyIC0yMCAtNyAtMjUgLTIzIC0yNiAtMjMgLTIgMCAyOSA4IDMyIDEwMiAzMiA4NyAwIDg4IDAgODggLTI1eiIvPgo8L2c+Cjwvc3ZnPgo=" alt="PRG Badge" />
+    </a>
+</p>
+
 I'm a Software Engineer, Architect, Designer, and Educator.
 - I'm constantly learning new languages, frameworks, approaches, and technologies to solve problems in new and creative ways.
 - I have a personal goal to make a project for every language and major framework that I learn (follow me to see my journey!).
@@ -26,23 +59,3 @@ I'm a Software Engineer, Architect, Designer, and Educator.
             <img src="./docs/images/prg-banner_small-rounded.png"/>
         </a>
 </div>
-<h3 align="center"><b>Feel free to reach out to me or check out my other content:</b></h3>
-<p align="center">
-<a href="mailto:scott.grivner@gmail.com" target="_blank"><img align="center" src="https://imgur.com/uMvAFRU.png" alt="3092847" height="35" width="35" /></a>
-<a href="https://linkedin.com/in/scottgrivner/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="scottgrivner" height="30" width="40" /></a>
-<a href="https://github.com/scottgriv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="scottgriv" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/3092847" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3092847" height="30" width="40" /></a>
- <a href="https://codepen.io/scottgriv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="scottgriv" height="30" width="40" /></a>
- <a href="https://medium.com/@scottgrivner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@scottgrivner" height="30" width="40" /></a>
- <a href="https://twitter.com/scottgrivner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scottgrivner" height="30" width="40" /></a>
- <a href="https://www.youtube.com/@scottgrivner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@scottgrivner" height="30" width="40" /></a>
-</p>
-<h3 align="center"><b>Portfolio & Business Websites:</b></h3>
-<p align="center">
-<a href="https://www.scottgrivner.dev" target="_blank"><img align="center" src="https://imgur.com/ecx5iwn.png" alt="3092847" height="40" width="40" /></a>
-<a href="https://www.nightowllabs.net" target="_blank"><img align="center" src="https://imgur.com/cI5oHUx.png" alt="3092847" height="35" width="35" /></a>
-</p>
-<h3 align="center"><b>Please consider supporting me if my Software has been beneficial to you!</b></h3>
-<p align="center">
-<a href="https://www.buymeacoffee.com/scottgriv"> <img align="center" src="./docs/images/bmac-orange_button.png" height="84" width="300" alt="https://www.buymeacoffee.com/scottgriv" /></a>
-</p>
