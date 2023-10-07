@@ -63,7 +63,7 @@ I'm a Software Engineer, Architect, Designer, and Educator.
         <img src="https://img.shields.io/badge/buy me a coffee-support me-FEDE1F?style=for-the-badge&logo=buymeacoffee&color=FEDE1F" alt="BuyMeACoffee Badge" />
     </a>
 </p>
-<h2 align="center"><b>I couldn't categorize my GitHub projects so I made a system to do it for me:</b></h2>
+<h2 align="center"><b>I couldn't categorize my GitHub projects, so I made a system to do it for me:</b></h2>
 <p align="center">
     <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/blob/main/guides/project_tier_list.md" target="_blank">
         <img src="./docs/images/prg_optimized.png" alt="PRG Optimized Logo" />
