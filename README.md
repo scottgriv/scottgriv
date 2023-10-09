@@ -65,7 +65,7 @@ I'm a Software Engineer, Architect, Designer, and Educator.
 </p>
 <h2 align="center"><b>I couldn't categorize my GitHub projects, so I made a system to do it for me:</b></h2>
 <p align="center">
-    <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/blob/main/guides/project_tier_list.md" target="_blank">
+    <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/blob/main/categories/project_tier_table.md" target="_blank">
         <img src="./docs/images/prg_optimized.png" alt="PRG Optimized Logo" />
     </a>
 </p>
