@@ -10,12 +10,6 @@ I'm a Software Engineer, Architect, Designer, and Educator.
 
 <h2 align="center"><b>Check out my Projects!</b></h2>
 <div align="center">
-        <a href="https://reciperesizer.com" target="_blank">
-            <img src="./docs/images/recipe-resizer-banner_small-rounded.png" alt="Recipe Resizer Banner"/>
-        </a>
-        <a href="https://beeheard.com" target="_blank">
-            <img src="./docs/images/bee-heard-banner_small-rounded.png" alt="Bee Heard Banner"/>
-        </a>
         <a href="https://github.com/scottgriv/Post.e" target="_blank">
             <img src="./docs/images/post-e-banner_small-rounded.png" alt="Post.e Banner"/>
         </a>
@@ -27,6 +21,12 @@ I'm a Software Engineer, Architect, Designer, and Educator.
         </a>
         <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines" target="_blank">
             <img src="./docs/images/prg-banner_small-rounded.png" alt="PRG Banner"/>
+        </a>
+        <a href="https://reciperesizer.com" target="_blank">
+            <img src="./docs/images/recipe-resizer-banner_small-rounded.png" alt="Recipe Resizer Banner"/>
+        </a>
+        <a href="https://beeheard.com" target="_blank">
+            <img src="./docs/images/bee-heard-banner_small-rounded.png" alt="Bee Heard Banner"/>
         </a>
 </div>
 
