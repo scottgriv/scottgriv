@@ -1,6 +1,6 @@
 Repository Tier: Silver
-Technology: React, GraphQL, React, Netlify
-Category: Single Page Application (SPA)
+Technology: Markdown, HTML
+Category: Profile README
 Order:
 
 <!---
