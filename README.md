@@ -11,24 +11,31 @@ I'm a Software Engineer, Architect, Designer, and Educator.
 
 <h2 align="center"><b>Check out my Projects!</b></h2>
 <div align="center">
-        <a href="https://github.com/scottgriv/Post.e" target="_blank">
-            <img src="./docs/images/post-e-banner_small-rounded.png" alt="Post.e Banner" width="400" height="128"/>
-        </a>
-        <a href="https://github.com/scottgriv/River-Charts" target="_blank">
-            <img src="./docs/images/river-charts-banner_small-rounded.png" alt="River Charts Banner" width="400" height="128"/>
-        </a>
-        <a href="https://github.com/scottgriv/Palm-Tree" target="_blank">
-            <img src="./docs/images/palm-tree-banner_small-rounded.png"alt="Palm Tree Banner" width="400" height="128"/>
-        </a>
-        <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines" target="_blank">
-            <img src="./docs/images/prg-banner_small-rounded.png" alt="PRG Banner" width="400" height="128"/>
-        </a>
-        <a href="https://reciperesizer.com" target="_blank">
-            <img src="./docs/images/recipe-resizer-banner_small-rounded.png" alt="Recipe Resizer Banner" width="400" height="128"/>
-        </a>
-        <a href="https://beeheard.com" target="_blank">
-            <img src="./docs/images/bee-heard-banner_small-rounded.png" alt="Bee Heard Banner" width="400" height="128"/>
-        </a>
+    <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines" target="_blank">
+        <img src="./docs/images/prg-banner_small-rounded.png" alt="PRG Banner" width="400" height="128"/>
+    </a>
+    <a href="https://github.com/scottgriv/Post.e" target="_blank">
+        <img src="./docs/images/post-e-banner_small-rounded.png" alt="Post.e Banner" width="400" height="128"/>
+    </a>
+    <a href="https://github.com/scottgriv/River-Charts" target="_blank">
+        <img src="./docs/images/river-charts-banner_small-rounded.png" alt="River Charts Banner" width="400" height="128"/>
+    </a>
+    <a href="https://github.com/scottgriv/Palm-Tree" target="_blank">
+        <img src="./docs/images/palm-tree-banner_small-rounded.png"alt="Palm Tree Banner" width="400" height="128"/>
+    </a>
+    <a href="https://reciperesizer.com" target="_blank">
+        <img src="./docs/images/recipe-resizer-banner_small-rounded.png" alt="Recipe Resizer Banner" width="400" height="128"/>
+    </a>
+    <a href="https://beeheard.com" target="_blank">
+        <img src="./docs/images/bee-heard-banner_small-rounded.png" alt="Bee Heard Banner" width="400" height="128"/>
+    </a>
+    <a href="https://nightowllabs.net" target="_blank">
+        <img src="./docs/images/nol-banner_small-rounded.png" alt="Business Banner" width="400" 
+        height="128"/>
+    </a>
+    <a href="https://scottgivner.dev" target="_blank">
+        <img src="./docs/images/scottgriv-banner_small-rounded.png" alt="Portfolio Banner" width="400" height="128"/>
+    </a>
 </div>
 
 <h2 align="center"><b>Feel free to reach out!</b></h2>
@@ -51,7 +58,7 @@ I'm a Software Engineer, Architect, Designer, and Educator.
 <h3 align="center"><b>I couldn't categorize my GitHub projects, so I made a system to do it for me:</b></h3>
 <p align="center">
     <a href="https://scottgriv.github.io/PRG-Personal-Repository-Guidelines" target="_blank">
-        <img src="./docs/images/prg_optimized.png" alt="Optimized" width="138" height="51" />
+        <img src="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/raw/main/docs/images/prg_optimized.png" alt="Optimized" width="138" height="51" />
     </a>
 </p>
 
