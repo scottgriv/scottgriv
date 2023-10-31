@@ -33,7 +33,7 @@ I'm a Software Engineer, Architect, Designer, and Educator.
         <img src="./docs/images/nol-banner_small-rounded.png" alt="Business Banner" width="400" 
         height="128"/>
     </a>
-    <a href="https://scottgivner.dev" target="_blank">
+    <a href="https://scottgrivner.dev" target="_blank">
         <img src="./docs/images/scottgriv-banner_small-rounded.png" alt="Portfolio Banner" width="400" height="128"/>
     </a>
 </div>
