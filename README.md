@@ -48,6 +48,7 @@ I'm a Software Engineer, Architect, Designer, and Educator.
     <a href="https://twitter.com/scottgrivner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scottgrivner" height="30" width="40" /></a>
     <a href="https://www.youtube.com/@scottgrivner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@scottgrivner" height="30" width="40" /></a>
 </p>
+<hr>
 <h3 align="center"><b>Please consider supporting me if my Software has been beneficial to you!</b></h3>
 <p align="center">
 <a href="https://www.buymeacoffee.com/scottgriv"> <img align="center" src="./docs/images/bmac-orange_button.png" height="42" width="150" alt="https://www.buymeacoffee.com/scottgriv" /></a>
