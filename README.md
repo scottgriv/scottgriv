@@ -40,9 +40,6 @@ I'm a Software Engineer, Architect, Designer, and Educator.
 
 <h2 align="center"><b>Feel free to reach out!</b></h2>
 <p align="center">
-    <a href="https://www.scottgrivner.dev" target="_blank"><img align="center" src="https://imgur.com/ecx5iwn.png" alt="3092847" height="40" width="40" /></a>
-    <a href="https://www.nightowllabs.net" target="_blank"><img align="center" src="https://imgur.com/cI5oHUx.png" alt="3092847" height="35" width="35" /></a>
-    <a href="mailto:scott.grivner@gmail.com" target="_blank"><img align="center" src="https://imgur.com/uMvAFRU.png" alt="3092847" height="32" width="32" /></a>
     <a href="https://linkedin.com/in/scottgrivner/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="scottgrivner" height="30" width="40" /></a>
     <a href="https://github.com/scottgriv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="scottgriv" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/3092847" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3092847" height="30" width="40" /></a>
