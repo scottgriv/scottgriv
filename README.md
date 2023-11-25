@@ -9,7 +9,7 @@ I'm a Software Engineer, Architect, Designer, and Educator.
 - I'm passionate not only about clean code and architecture but also about the overall User Experience (UX) and User Interface (UI) of my projects; I do all of my own design work and my favorite part of what I do is combining technology with art.
 - Additionally, I actively contribute to the open source community on [GitHub](https://github.com/scottgriv), help fellow developers solve technical problems on [Stack Overflow](https://stackoverflow.com/users/3092847), and educate others about technology around the Web.
 <hr>
-<h2 align="center"><b>Check out my Projects!</b></h2>
+<h2 align="center"><b>Check out my projects!</b></h2>
 <div align="center">
     <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines" target="_blank"><img src="./docs/images/prg-banner_small-rounded.png" alt="PRG Banner" width="400" height="128"/></a>
     <a href="https://github.com/scottgriv/Post.e" target="_blank"><img src="./docs/images/post-e-banner_small-rounded.png" alt="Post.e Banner" width="400" height="128"/></a>
