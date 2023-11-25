@@ -7,7 +7,7 @@ I'm a Software Engineer, Architect, Designer, and Educator.
 - I'm constantly learning new languages, frameworks, approaches, and technologies to solve problems in new and creative ways.
 - I enjoy traversing across multiple disciplines and fields (inside and outside of Computer Science) to come up with creative solutions with my projects.
 - I'm passionate not only about clean code and architecture but also about the overall User Experience (UX) and User Interface (UI) of my projects; I do all of my own design work and my favorite part of what I do is combining technology with art.
-- Additionally, I actively contribute to the open source community on [GitHub](https://github.com/scottgriv), help fellow devs solve technical problems on [Stack Overflow](https://stackoverflow.com/users/3092847), and educate others about technology around the Web.
+- Additionally, I actively contribute to the open source community on [GitHub](https://github.com/scottgriv), help fellow developers solve technical problems on [Stack Overflow](https://stackoverflow.com/users/3092847), and educate others about technology around the Web.
 
 <h2 align="center"><b>Check out my Projects!</b></h2>
 <div align="center">
@@ -20,7 +20,7 @@ I'm a Software Engineer, Architect, Designer, and Educator.
     <a href="https://nightowllabs.net" target="_blank"><img src="./docs/images/nol-banner_small-rounded.png" alt="Business Banner" width="400" height="128"/></a>
     <a href="https://scottgrivner.dev" target="_blank"><img src="./docs/images/scottgriv-banner_small-rounded.png" alt="Portfolio Banner" width="400" height="128"/></a>
 </div>
-
+<hr>
 <h2 align="center"><b>Check out my other content:</b></h2>
 <p align="center">
     <a href="https://linkedin.com/in/scottgrivner/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="scottgrivner" height="30" width="40" /></a>
@@ -31,7 +31,6 @@ I'm a Software Engineer, Architect, Designer, and Educator.
     <a href="https://twitter.com/scottgrivner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scottgrivner" height="30" width="40" /></a>
     <a href="https://www.youtube.com/@scottgrivner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@scottgrivner" height="30" width="40" /></a>
 </p>
-<hr>
 <h3 align="center"><b>Please consider supporting me if my Software has been beneficial to you!</b></h3>
 <p align="center">
 <a href="https://www.buymeacoffee.com/scottgriv"> <img align="center" src="./docs/images/bmac-orange_button.png" height="42" width="150" alt="https://www.buymeacoffee.com/scottgriv" /></a>
