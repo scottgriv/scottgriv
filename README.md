@@ -21,7 +21,7 @@ I'm a Software Engineer, Architect, Designer, and Educator.
     <a href="https://scottgrivner.dev" target="_blank"><img src="./docs/images/scottgriv-banner_small-rounded.png" alt="Portfolio Banner" width="400" height="128"/></a>
 </div>
 <hr>
-<h2 align="center"><b>Check out my other content:</b></h2>
+<h2 align="center"><b>Check out my other content!</b></h2>
 <p align="center">
     <a href="https://linkedin.com/in/scottgrivner/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="scottgrivner" height="30" width="40" /></a>
     <a href="https://github.com/scottgriv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="scottgriv" height="30" width="40" /></a>
