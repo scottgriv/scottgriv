@@ -14,8 +14,8 @@ This file is used to connect this repository to the **PRG** project categorizati
 
 **Repository Tier:** Optimized <br>
 **Technology:** Markdown, HTML <br>
-**Category:** Profile README <br>
-**Order:** 7 <br>
+**Category:** Personal README <br>
+**Order:** 1 <br>
 
 ## Parameters
 
