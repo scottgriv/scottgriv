@@ -33,7 +33,7 @@ I'm a Software Engineer, Architect, Designer, and Educator.
 </p>
 <h3 align="center"><b>Please consider supporting me if my Software has been beneficial to you!</b></h3>
 <p align="center">
-<a href="https://www.buymeacoffee.com/scottgriv"> <img align="center" src="./docs/images/bmac-orange_button.png" height="42" width="150" alt="https://www.buymeacoffee.com/scottgriv" /></a>
+<a href="https://www.buymeacoffee.com/scottgriv"> <img align="center" src="./docs/images/bmac-orange_button.png" height="53" width="188" alt="https://www.buymeacoffee.com/scottgriv" /></a>
 </p>
 <h3 align="center"><b>I couldn't categorize my GitHub projects, so I made a system to do it for me:</b></h3>
 <p align="center">
