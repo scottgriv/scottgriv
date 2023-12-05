@@ -31,11 +31,11 @@ I'm a Software Engineer, Architect, Designer, and Educator.
     <a href="https://twitter.com/scottgrivner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scottgrivner" height="30" width="40" /></a>
     <a href="https://www.youtube.com/@scottgrivner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@scottgrivner" height="30" width="40" /></a>
 </p>
-<h3 align="center"><b>Please consider supporting me if my Software has been beneficial to you!</b></h3>
+<h4 align="center"><b>Please consider supporting me if my Software has been beneficial to you!</b></h3>
 <p align="center">
 <a href="https://www.buymeacoffee.com/scottgriv"> <img align="center" src="./docs/images/bmac-orange_button.png" height="53" width="188" alt="https://www.buymeacoffee.com/scottgriv" /></a>
 </p>
-<h3 align="center"><b>I couldn't categorize my GitHub projects, so I made a system to do it for me:</b></h3>
+<h4 align="center"><b>I couldn't categorize my GitHub projects, so I made a system to do it for me:</b></h3>
 <p align="center">
     <a href="https://scottgriv.github.io/PRG-Personal-Repository-Guidelines" target="_blank"><img src="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/raw/main/docs/images/prg_optimized.png" alt="Optimized" width="138" height="51" /></a>
 </p>
