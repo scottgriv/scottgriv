@@ -1,6 +1,6 @@
 <!-- Begin README -->
 
-# Hi, I'm Scott aka Griv 👋 ![](https://komarev.com/ghpvc/?username=scottgriv&color=orange&style=flat-square&label=Profile+Views)
+# Hi, I'm Scott aka Griv 👋 ![](https://komarev.com/ghpvc/?username=scottgriv&color=red&style=flat-square&label=Profile+Views)
 
 I'm a Software Engineer, Architect, Designer, and Educator.
 
@@ -37,7 +37,13 @@ I'm a Software Engineer, Architect, Designer, and Educator.
 </p>
 <h4 align="center"><b>I couldn't categorize my GitHub projects, so I made a system to do it for me:</b></h3>
 <p align="center">
-    <a href="https://scottgriv.github.io/PRG-Personal-Repository-Guidelines" target="_blank"><img src="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/raw/main/docs/images/prg_optimized.png" alt="Optimized" width="138" height="51" /></a>
+    <a href="https://prgportfolio.com" target="_blank"><img src="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/raw/main/docs/images/prg_optimized.png" alt="Optimized" width="138" height="51" /></a>
 </p>
+<hr>
+<div align="center">
+    <a href="https://scottgrivner.dev" target="_blank">
+        <img src="./docs/images/footer.png" width="100" height="100"/>
+    </a>
+</div>
 
 <!-- End README -->
