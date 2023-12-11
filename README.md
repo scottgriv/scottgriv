@@ -17,7 +17,7 @@ I'm a Software Engineer, Architect, Designer, and Educator.
     <a href="https://github.com/scottgriv/Palm-Tree" target="_blank"><img src="./docs/images/palm-tree-banner_small-rounded.png"alt="Palm Tree Banner" width="400" height="128"/></a>
     <a href="https://reciperesizer.com" target="_blank"><img src="./docs/images/recipe-resizer-banner_small-rounded.png" alt="Recipe Resizer Banner" width="400" height="128"/></a>
     <a href="https://beeheard.com" target="_blank"><img src="./docs/images/bee-heard-banner_small-rounded.png" alt="Bee Heard Banner" width="400" height="128"/></a>
-    <a href="https://nightowllabs.net" target="_blank"><img src="./docs/images/nol-banner_small-rounded.png" alt="Business Banner" width="400" height="128"/></a>
+    <a href="https://nightowllabs.io" target="_blank"><img src="./docs/images/nol-banner_small-rounded.png" alt="Business Banner" width="400" height="128"/></a>
     <a href="https://scottgrivner.dev" target="_blank"><img src="./docs/images/scottgriv-banner_small-rounded.png" alt="Portfolio Banner" width="400" height="128"/></a>
 </div>
 <hr>
