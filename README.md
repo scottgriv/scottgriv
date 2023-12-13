@@ -11,14 +11,14 @@ I'm a Software Engineer, Architect, Designer, and Educator.
 <hr>
 <h2 align="center"><b>Check out my projects!</b></h2>
 <div align="center">
-    <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines" target="_blank"><img src="./docs/images/prg-banner_small-rounded.png" alt="PRG Banner" width="400" height="128"/></a>
-    <a href="https://github.com/scottgriv/Post.e" target="_blank"><img src="./docs/images/post-e-banner_small-rounded.png" alt="Post.e Banner" width="400" height="128"/></a>
-    <a href="https://github.com/scottgriv/River-Charts" target="_blank"><img src="./docs/images/river-charts-banner_small-rounded.png" alt="River Charts Banner" width="400" height="128"/></a>
-    <a href="https://github.com/scottgriv/Palm-Tree" target="_blank"><img src="./docs/images/palm-tree-banner_small-rounded.png"alt="Palm Tree Banner" width="400" height="128"/></a>
-    <a href="https://reciperesizer.com" target="_blank"><img src="./docs/images/recipe-resizer-banner_small-rounded.png" alt="Recipe Resizer Banner" width="400" height="128"/></a>
-    <a href="https://beeheard.com" target="_blank"><img src="./docs/images/bee-heard-banner_small-rounded.png" alt="Bee Heard Banner" width="400" height="128"/></a>
-    <a href="https://nightowllabs.io" target="_blank"><img src="./docs/images/nol-banner_small-rounded.png" alt="Business Banner" width="400" height="128"/></a>
-    <a href="https://scottgrivner.dev" target="_blank"><img src="./docs/images/scottgriv-banner_small-rounded.png" alt="Portfolio Banner" width="400" height="128"/></a>
+    <a href="https://reciperesizer.com" target="_blank"><img src="./docs/images/banners/recipe-resizer-banner_small-rounded.png" alt="Recipe Resizer Banner" width="400" height="128"/></a>
+    <a href="https://beeheard.com" target="_blank"><img src="./docs/images/banners/bee-heard-banner_small-rounded.png" alt="Bee Heard Banner" width="400" height="128"/></a>
+    <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines" target="_blank"><img src="./docs/images/banners/prg-banner_small-rounded.png" alt="PRG Banner" width="400" height="128"/></a>
+    <a href="https://github.com/scottgriv/Post.e" target="_blank"><img src="./docs/images/banners/post-e-banner_small-rounded.png" alt="Post.e Banner" width="400" height="128"/></a>
+    <a href="https://github.com/scottgriv/River-Charts" target="_blank"><img src="./docs/images/banners/river-charts-banner_small-rounded.png" alt="River Charts Banner" width="400" height="128"/></a>
+    <a href="https://github.com/scottgriv/Palm-Tree" target="_blank"><img src="./docs/images/banners/palm-tree-banner_small-rounded.png"alt="Palm Tree Banner" width="400" height="128"/></a>
+    <a href="https://github.com/scottgriv/Business-Website" target="_blank"><img src="./docs/images/banners/nol-banner_small-rounded.png" alt="Business Website Banner" width="400" height="128"/></a>
+    <a href="https://github.com/scottgriv/Portfolio-Website" target="_blank"><img src="./docs/images/banners/scottgriv-banner_small-rounded.png" alt="Portfolio Website Banner" width="400" height="128"/></a>
 </div>
 <hr>
 <h2 align="center"><b>Check out my other content!</b></h2>
@@ -31,9 +31,9 @@ I'm a Software Engineer, Architect, Designer, and Educator.
     <a href="https://twitter.com/scottgrivner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scottgrivner" height="30" width="40" /></a>
     <a href="https://www.youtube.com/@scottgrivner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@scottgrivner" height="30" width="40" /></a>
 </p>
-<h4 align="center"><b>Please consider supporting me if my Software has been beneficial to you!</b></h3>
+<h4 align="center"><b>Please consider supporting me if my software has been beneficial to you!</b></h3>
 <p align="center">
-<a href="https://www.buymeacoffee.com/scottgriv"> <img align="center" src="./docs/images/bmac-orange_button.png" height="53" width="188" alt="https://www.buymeacoffee.com/scottgriv" /></a>
+<a href="https://www.buymeacoffee.com/scottgriv"> <img align="center" src="./docs/images/supporting/bmac-orange_button.png" height="53" width="188" alt="https://www.buymeacoffee.com/scottgriv" /></a>
 </p>
 <h4 align="center"><b>I couldn't categorize my GitHub projects, so I made a system to do it for me:</b></h3>
 <p align="center">
