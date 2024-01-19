@@ -12,7 +12,7 @@ I'm a Software Engineer, Architect, Designer, and Educator.
 <h2 align="center"><b>Check out my projects!</b></h2>
 <div align="center">
     <a href="https://reciperesizer.com" target="_blank"><img src="./docs/images/banners/recipe-resizer-banner_small-rounded.png" alt="Recipe Resizer Banner" width="400" height="128"/></a>
-    <a href="https://beeheard.com" target="_blank"><img src="./docs/images/banners/bee-heard-banner_small-rounded.png" alt="Bee Heard Banner" width="400" height="128"/></a>
+    <a href="https://beeheard.com" target="_blank"><img src="./docs/images/banners/bee-heard-banner_small-rounded-new.png" alt="Bee Heard Banner" width="400" height="128"/></a>
     <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines" target="_blank"><img src="./docs/images/banners/prg-banner_small-rounded.png" alt="PRG Banner" width="400" height="128"/></a>
     <a href="https://github.com/scottgriv/Post.e" target="_blank"><img src="./docs/images/banners/post-e-banner_small-rounded.png" alt="Post.e Banner" width="400" height="128"/></a>
     <a href="https://github.com/scottgriv/River-Charts" target="_blank"><img src="./docs/images/banners/river-charts-banner_small-rounded.png" alt="River Charts Banner" width="400" height="128"/></a>
