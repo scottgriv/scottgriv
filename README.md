@@ -1,6 +1,6 @@
 <!-- Begin README -->
 
-# Hi, I'm Scott aka Griv 👋 ![](https://komarev.com/ghpvc/?username=scottgriv&color=red&style=flat-square&label=Profile+Views)
+# Hi, I'm Scott aka Griv 👋 ![](https://komarev.com/ghpvc/?username=scottgriv&color=green&style=flat-square&label=Profile+Views)
 
 I'm a Software Engineer, Architect, Designer, and Educator.
 
