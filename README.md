@@ -33,13 +33,9 @@ I'm a Software Engineer, Architect, Designer, and Educator.
 </p>
 <h3 align="center"><b>Portfolio and Business websites:</b></h3>
 <div align="center">
-    <a href="https://scottgrivner.dev" target="_blank">
-        <img src="./docs/images/professional_footer.png" width="100" height="100"/>
-    </a>
-    &nbsp;&nbsp; <!-- Non-breaking spaces for spacing -->
-    <a href="https://nightowllabs.io" target="_blank">
-        <img src="./docs/images/business_footer.png" width="100" height="100"/>
-    </a>
+    <a href="https://scottgrivner.dev" target="_blank"><img src="./docs/images/professional_footer.png" width="100" height="100"/></a>
+&nbsp;&nbsp; <!-- Non-breaking spaces for spacing -->
+    <a href="https://nightowllabs.io" target="_blank"><img src="./docs/images/business_footer.png" width="100" height="100"/></a>
 </div>
 <h3 align="center"><b>I couldn't categorize my GitHub projects, so I made a system to do it for me:</b></h3>
 <p align="center">
