@@ -17,8 +17,6 @@ I'm a Software Engineer, Architect, Designer, and Educator.
     <a href="https://github.com/scottgriv/Post.e" target="_blank"><img src="./docs/images/banners/post-e-banner_small-rounded.png" alt="Post.e Banner" width="400" height="128"/></a>
     <a href="https://github.com/scottgriv/River-Charts" target="_blank"><img src="./docs/images/banners/river-charts-banner_small-rounded.png" alt="River Charts Banner" width="400" height="128"/></a>
     <a href="https://github.com/scottgriv/Palm-Tree" target="_blank"><img src="./docs/images/banners/palm-tree-banner_small-rounded.png"alt="Palm Tree Banner" width="400" height="128"/></a>
-    <a href="https://github.com/scottgriv/Business-Website" target="_blank"><img src="./docs/images/banners/nol-banner_small-rounded.png" alt="Business Website Banner" width="400" height="128"/></a>
-    <a href="https://github.com/scottgriv/Portfolio-Website" target="_blank"><img src="./docs/images/banners/scottgriv-banner_small-rounded.png" alt="Portfolio Website Banner" width="400" height="128"/></a>
 </div>
 <hr>
 <h2 align="center"><b>Check out my other content!</b></h2>
@@ -28,6 +26,8 @@ I'm a Software Engineer, Architect, Designer, and Educator.
     <a href="https://stackoverflow.com/users/3092847" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3092847" height="30" width="40" /></a>
     <a href="https://codepen.io/scottgriv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="scottgriv" height="30" width="40" /></a>
     <a href="https://medium.com/@scottgrivner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@scottgrivner" height="30" width="40" /></a>
+    <a href="https://twitter.com/scottgrivner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scottgrivner" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/@scottgrivner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@scottgrivner" height="30" width="40" /></a>
 </p>
 <h3 align="center"><b>Portfolio and Business websites:</b></h3>
 <div align="center">
