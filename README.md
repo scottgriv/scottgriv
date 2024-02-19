@@ -8,6 +8,8 @@ I'm a Software Engineer, Architect, Designer, and Educator.
 - I enjoy traversing across multiple disciplines and fields (inside and outside of Computer Science) to come up with creative solutions with my projects.
 - I'm passionate not only about clean code and architecture but also about the overall User Experience (UX) and User Interface (UI) of my projects; I do all of my own design work and my favorite part of what I do is combining technology with art.
 - Additionally, I actively contribute to the open source community on [GitHub](https://github.com/scottgriv), help fellow developers solve technical problems on [Stack Overflow](https://stackoverflow.com/users/3092847), and educate others about technology around the Web.
+- Visit my [Portfolio Website](https://scottgrivner.dev) and [Business Website](https://nightowllabs.io) for more information about my work.
+
 <hr>
 <h2 align="center"><b>Check out my projects!</b></h2>
 <div align="center">
@@ -42,16 +44,6 @@ I'm a Software Engineer, Architect, Designer, and Educator.
     <a href="https://medium.com/@scottgrivner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@scottgrivner" height="30" width="40" /></a>
     <a href="https://twitter.com/scottgrivner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scottgrivner" height="30" width="40" /></a>
     <a href="https://www.youtube.com/@scottgrivner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@scottgrivner" height="30" width="40" /></a>
-</p>
-<h3 align="center"><b>Portfolio and Business websites:</b></h3>
-<div align="center">
-    <a href="https://scottgrivner.dev" target="_blank"><img src="./docs/images/professional_footer.png" width="100" height="100"/></a>
-&nbsp;&nbsp; <!-- Non-breaking spaces for spacing -->
-    <a href="https://nightowllabs.io" target="_blank"><img src="./docs/images/business_footer.png" width="100" height="100"/></a>
-</div>
-<h3 align="center"><b>I couldn't categorize my GitHub projects, so I made a system to do it for me:</b></h3>
-<p align="center">
-    <a href="https://prgportfolio.com" target="_blank"><img src="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/raw/main/docs/images/prg_optimized.png" alt="Optimized" width="138" height="51" /></a>
 </p>
 <h3 align="center"><b>Please consider supporting me if my software has been beneficial to you!</b></h3>
 <p align="center">
