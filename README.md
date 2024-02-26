@@ -39,17 +39,19 @@ I'm a Software Engineer, Architect, Designer, and Educator.
 <hr>
 <h2 align="center"><b>Check out my other content!</b></h2>
 <p align="center">
-    <a href="https://linkedin.com/in/scottgrivner/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="scottgrivner" height="30" width="40" /></a>
-    <a href="https://github.com/scottgriv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="scottgriv" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/3092847" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3092847" height="30" width="40" /></a>
-    <a href="https://codepen.io/scottgriv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="scottgriv" height="30" width="40" /></a>
-    <a href="https://medium.com/@scottgrivner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@scottgrivner" height="30" width="40" /></a>
-    <a href="https://twitter.com/scottgrivner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scottgrivner" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/@scottgrivner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@scottgrivner" height="30" width="40" /></a>
+    <a href="https://github.com/Night-Owl-Labs" target="_blank"><img align="center" src="./docs/images/socials/github.svg" alt="GitHub" height="40" width="40" /></a>&nbsp;&nbsp;
+    <a href="https://stackoverflow.com/users/3092847" target="_blank"><img align="center" src="./docs/images/socials/stack-overflow.svg" alt="Stack Overflow" height="40" width="40" /></a>&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/scottgrivner/" target="_blank"><img align="center" src="./docs/images/socials//linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;
+    <a href="https://codepen.io/scottgriv" target="blank"><img align="center" src="./docs/images/socials/codepen.svg" alt="Codepen" height="40" width="40" /></a>&nbsp;&nbsp;
+    <a href="https://medium.com/@scottgrivner" target="blank"><img align="center" src="./docs/images/socials/medium.svg" alt="Medium" height="40" width="40" /></a>&nbsp;&nbsp;
+    <a href="https://goodreads.com/scottgrivner" target="blank"><img align="center" src="./docs/images/socials/goodreads.png" alt="Goodreads" height="40" width="40" /></a>&nbsp;&nbsp;
+    <a href="https://x.com/scottgrivner" target="blank"><img align="center" src="./docs/images/socials/x.png" alt="X" height="43" width="43" /></a>&nbsp;&nbsp;
+    <a href="https://www.youtube.com/@scottgrivner" target="blank"><img align="center" src="./docs/images/socials/youtube.svg" alt="YouTube" height="40" width="40" /></a>&nbsp;&nbsp;
+    <a href="mailto:scott.grivner@gmail.com" target="_blank"><img align="center" src="./docs/images/socials/gmail.png" alt="Gmail" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
-<h3 align="center"><b>Please consider supporting me if my software has been beneficial to you!</b></h3>
+<h3 align="center"><b>Please consider socials me if my software has been beneficial to you!</b></h3>
 <p align="center">
-    <a href="https://www.buymeacoffee.com/scottgriv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+    <a href="https://www.buymeacoffee.com/scottgriv" target="_blank"><img src="./docs/images/socials/bmc.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
 
 <!-- End README -->
