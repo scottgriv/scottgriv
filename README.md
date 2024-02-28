@@ -7,7 +7,7 @@ I'm a Software Engineer, Architect, Designer, and Educator.
 - I'm constantly learning new languages, frameworks, approaches, and technologies to solve problems in new and creative ways.
 - I enjoy traversing across multiple disciplines and fields (inside and outside of Computer Science) to come up with creative solutions with my projects.
 - I'm passionate not only about clean code and architecture but also about the overall User Experience (UX) and User Interface (UI) of my projects; I do all of my own design work and my favorite part of what I do is combining technology with art.
-- Additionally, I actively contribute to the open source community on [GitHub](https://github.com/scottgriv), help fellow developers solve technical problems on [Stack Overflow](https://stackoverflow.com/users/3092847), and educate others about technology around the Web.
+- Additionally, I actively contribute to the open source community here on GitHub, help fellow developers solve technical problems on [Stack Overflow](https://stackoverflow.com/users/3092847), and educate others about technology around the Web.
 - Visit my [Portfolio Website](https://scottgrivner.dev) and [Business Website](https://nightowllabs.io) for more information about my work.
 
 <hr>
