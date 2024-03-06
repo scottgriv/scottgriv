@@ -1,6 +1,6 @@
 <!-- Begin README -->
 
-# Hi, I'm Scott aka Griv 👋 ![](https://komarev.com/ghpvc/?username=scottgriv&color=155124&style=flat-square&label=Profile+Views)
+# Hi, I'm Scott aka Griv 👋 [![](https://komarev.com/ghpvc/?username=scottgriv&color=155124&style=flat-square&label=Profile+Views)](https://scottgrivner.dev)
 
 I'm a Software Engineer, Architect, Designer, and Educator.
 
@@ -49,9 +49,13 @@ I'm a Software Engineer, Architect, Designer, and Educator.
     <a href="https://www.youtube.com/@scottgrivner" target="blank"><img align="center" src="./docs/images/socials/youtube.svg" alt="YouTube" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="mailto:scott.grivner@gmail.com" target="_blank"><img align="center" src="./docs/images/socials/gmail.png" alt="Gmail" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
-<h3 align="center"><b>Please consider socials me if my software has been beneficial to you!</b></h3>
+<h3 align="center"><b>I couldn't categorize my GitHub projects, so I made a system to do it for me:</b></h3>
+<p align="center">
+    <a href="https://prgportfolio.com" target="_blank"><img src="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/raw/main/docs/images/prg_optimized.png" alt="Optimized" width="138" height="51" /></a>
+</p>
+<h3 align="center"><b>Please consider supporting me if my software has been beneficial to you!</b></h3>
 <p align="center">
     <a href="https://www.buymeacoffee.com/scottgriv" target="_blank"><img src="./docs/images/socials/bmc.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</p>
+</p> 
 
 <!-- End README -->
