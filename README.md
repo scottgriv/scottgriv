@@ -24,7 +24,7 @@ I'm a Software Engineer, Architect, Designer, and Educator.
     <a href="https://github.com/scottgriv/Business-Website" target="_blank"><img src="./docs/images/banners/nol-banner_small-rounded.png"alt="Business Website Banner" width="400" height="128"/></a>
     <a href="https://github.com/scottgriv/Portfolio-Website" target="_blank"><img src="./docs/images/banners/scottgriv-banner_small-rounded.png"alt="Portfolio Website Banner" width="400" height="128"/></a>
 </div>
-<h2 align="center"><b>Handy web apps I built:</b></h2>
+<h3 align="center"><b>Handy web apps I built:</b></h3>
 <div align="center">
     <a href="https://github.com/scottgriv/CREDITS-Generator" target="_blank"><img src="./docs/images/icons/icon_1-rounded.png"alt="CREDITS Generator Icon" width="60" height="60"/></a>
     &nbsp;
