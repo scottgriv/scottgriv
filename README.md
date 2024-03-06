@@ -37,7 +37,7 @@ I'm a Software Engineer, Architect, Designer, and Educator.
     <a href="https://github.com/scottgriv/PWA-Demo-App" target="_blank"><img src="./docs/images/icons/icon_5-rounded.png"alt="PWA Demo Application" width="60" height="60"/></a>
 </div>
 <hr>
-<h2 align="center"><b>Check out my other content!</b></h2>
+<h2 align="center"><b>Check out my other content and socials!</b></h2>
 <p align="center">
     <a href="https://github.com/Night-Owl-Labs" target="_blank"><img align="center" src="./docs/images/socials/github.svg" alt="GitHub" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="https://stackoverflow.com/users/3092847" target="_blank"><img align="center" src="./docs/images/socials/stack-overflow.svg" alt="Stack Overflow" height="40" width="40" /></a>&nbsp;&nbsp;
