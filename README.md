@@ -24,18 +24,6 @@ I'm a Software Engineer, Architect, Designer, and Educator.
     <a href="https://github.com/scottgriv/Business-Website" target="_blank"><img src="./docs/images/banners/nol-banner_small-rounded.png"alt="Business Website Banner" width="400" height="128"/></a>
     <a href="https://github.com/scottgriv/Portfolio-Website" target="_blank"><img src="./docs/images/banners/scottgriv-banner_small-rounded.png"alt="Portfolio Website Banner" width="400" height="128"/></a>
 </div>
-<h3 align="center"><b>Handy web apps I built:</b></h3>
-<div align="center">
-    <a href="https://github.com/scottgriv/CREDITS-Generator" target="_blank"><img src="./docs/images/icons/icon_1-rounded.png"alt="CREDITS Generator Icon" width="60" height="60"/></a>
-    &nbsp;
-    <a href="https://github.com/scottgriv/Resolution-Scale-Calculator" target="_blank"><img src="./docs/images/icons/icon_2-rounded.png"alt="Resolution Scale Calculator Icon" width="60" height="60"/></a>
-    &nbsp;
-    <a href="https://github.com/scottgriv/GitHub-User-Info" target="_blank"><img src="./docs/images/icons/icon_3-rounded.png"alt="GitHub User Info Icon" width="60" height="60"/></a>
-    &nbsp;
-    <a href="https://github.com/scottgriv/Binary-Converter" target="_blank"><img src="./docs/images/icons/icon_4-rounded.png"alt="Binary Converter Icon" width="60" height="60"/></a>
-    &nbsp;
-    <a href="https://github.com/scottgriv/PWA-Demo-App" target="_blank"><img src="./docs/images/icons/icon_5-rounded.png"alt="PWA Demo Application" width="60" height="60"/></a>
-</div>
 <hr>
 <h2 align="center"><b>Check out my other content and socials!</b></h2>
 <p align="center">
@@ -58,11 +46,5 @@ I'm a Software Engineer, Architect, Designer, and Educator.
     <a href="https://www.buymeacoffee.com/scottgriv" target="_blank"><img src="./docs/images/socials/bmc.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
     <a href="https://github.com/sponsors/scottgriv" target="_blank"><img src="./docs/images/socials/github_sponsors.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
-<h3 align="center"><b>Explore my portfolio website to find out more about me:</b></h3>
-<div align="center">
-    <a href="https://nightowllabs.io" target="_blank">
-        <img src="./docs/images/professional_footer.png" width="100" height="100"/>
-    </a>
-</div>
 
 <!-- End README -->
