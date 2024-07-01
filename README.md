@@ -1,14 +1,13 @@
 <!-- Begin README -->
 
-# Hi, I'm Scott aka Griv 👋 [![](https://komarev.com/ghpvc/?username=scottgriv&color=155124&style=flat-square&label=Profile+Views)](https://scottgrivner.dev)
+<h1 align="left">Hi, I'm Scott aka Griv <img src="./docs/images/wave.gif" width="25px">
+<img src="https://komarev.com/ghpvc/?username=scottgriv&color=155124&style=flat-square&label=Profile+Views"></h1>
 
-I'm a Software Engineer, Architect, Designer, and Educator.
-
-- I'm constantly learning new languages, frameworks, approaches, and technologies to solve problems in new and creative ways.
-- I enjoy traversing across multiple disciplines and fields (inside and outside of Computer Science) to come up with creative solutions with my projects.
-- I'm passionate not only about clean code and architecture but also about the overall User Experience (UX) and User Interface (UI) of my projects; I do all of my own design work and my favorite part of what I do is combining technology with art.
-- Additionally, I actively contribute to the open source community here on GitHub, help fellow developers solve technical problems on [Stack Overflow](https://stackoverflow.com/users/3092847), and educate others about technology around the Web.
-- Visit my [Portfolio Website](https://scottgrivner.dev) and [Business Website](https://nightowllabs.io) for more information about my work.
+I'm a Software Engineer who is always learning new languages, frameworks, and technologies to solve problems creatively. 
+* I enjoy exploring various disciplines to find innovative solutions for my projects. 
+* I'm passionate about clean code, architecture, and UX/UI, I handle all my own design work, blending technology with art. 
+* I actively contribute to the open source community here on GitHub, assist developers on Stack Overflow, and write about technology around the web. 
+* For more information, [Portfolio](https://scottgrivner.dev) and [Business](https://nightowllabs.io) websites.
 
 <hr>
 <h2 align="center"><b>Check out my projects!</b></h2>
@@ -36,15 +35,11 @@ I'm a Software Engineer, Architect, Designer, and Educator.
     <a href="https://x.com/scottgrivner" target="blank"><img align="center" src="./docs/images/socials/x.png" alt="X" height="43" width="43" /></a>&nbsp;&nbsp;
     <a href="https://www.youtube.com/@scottgrivner" target="blank"><img align="center" src="./docs/images/socials/youtube.svg" alt="YouTube" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="mailto:scott.grivner@gmail.com" target="_blank"><img align="center" src="./docs/images/socials/gmail.png" alt="Gmail" height="40" width="40" /></a>&nbsp;&nbsp;
+    <a href="https://www.buymeacoffee.com/scottgriv" target="blank"><img align="center" src="./docs/images/socials/bmc.png" alt="X" height="33" width="26" /></a>&nbsp;&nbsp;
 </p>
 <h3 align="center"><b>I couldn't categorize my GitHub projects, so I made a system to do it for me:</b></h3>
 <p align="center">
     <a href="https://prgportfolio.com" target="_blank"><img src="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/raw/main/docs/images/prg_optimized.png" alt="Optimized" width="138" height="51" /></a>
-</p>
-<h3 align="center"><b>Please consider supporting me if my software has been beneficial to you!</b></h3>
-<p align="center">
-    <a href="https://www.buymeacoffee.com/scottgriv" target="_blank"><img src="./docs/images/socials/bmc.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-    <a href="https://github.com/sponsors/scottgriv" target="_blank"><img src="./docs/images/socials/github_sponsors.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
 
 <!-- End README -->
