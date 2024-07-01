@@ -25,7 +25,7 @@ I'm a Software Engineer who is always learning new languages, frameworks, and te
     <a href="https://github.com/scottgriv/Portfolio-Website" target="_blank"><img src="./docs/images/banners/scottgriv-banner_small-rounded.png"alt="Portfolio Website Banner" width="400" height="128"/></a>
 </div>
 <hr>
-<h2 align="center"><b>Check out my other content and socials!</b></h2>
+<h2 align="center"><b>Check out my socials and other content!</b></h2>
 <p align="center">
     <a href="https://stackoverflow.com/users/3092847" target="_blank"><img align="center" src="./docs/images/socials/stack-overflow.svg" alt="Stack Overflow" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="https://linkedin.com/in/scottgrivner/" target="_blank"><img align="center" src="./docs/images/socials//linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;
