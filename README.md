@@ -6,7 +6,7 @@
 I'm a Software Engineer who is always learning new languages, frameworks, and technologies to solve problems creatively.
 
 - I enjoy exploring various disciplines to find innovative solutions for my projects.
-- I'm passionate about clean code, architecture, and UX/UI, I handle all my own design work, blending technology with art.
+- I'm passionate about clean code, architecture, and UX/UI; I handle all my own design work, blending technology with art.
 - I actively contribute to the open source community here on GitHub, assist developers on Stack Overflow, and write about technology around the web.
 - For more information, [Portfolio](https://scottgrivner.dev) and [Business](https://nightowllabs.io) websites.
 
