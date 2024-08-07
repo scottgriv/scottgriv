@@ -5,10 +5,10 @@
 
 I'm a Software Engineer who is always learning new languages, frameworks, and technologies to solve problems creatively.
 
-* I enjoy exploring various disciplines to find innovative solutions for my projects.
-* I'm passionate about clean code, architecture, and UX/UI. I handle all my own design work, blending technology with art. I also have extensive experience in full-stack development, seamlessly integrating frontend and backend technologies.
-* I actively contribute to the open source community here on GitHub, assist developers on [Stack Overflow](https://stackoverflow.com/users/3092847), and write about technology on [Medium](https://medium.com/@scottgrivner) and [X](https://x.com/scottgrivner).
-* For more information about me, visit my [Portfolio](https://scottgrivner.dev) and [Business](https://nightowllabs.io) websites.
+- I enjoy exploring various disciplines to find innovative solutions for my projects.
+- I'm passionate about clean code, architecture, and UX/UI. I handle all my own design work, blending technology with art. I also have extensive experience in full-stack development, seamlessly integrating frontend and backend technologies.
+- I actively contribute to the open source community here on GitHub, assist developers on [Stack Overflow](https://stackoverflow.com/users/3092847), and write about technology on [Medium](https://medium.com/@scottgrivner) and [X](https://x.com/scottgrivner).
+- For more information about me, visit my [Portfolio](https://scottgrivner.dev) and [Business](https://nightowllabs.io) websites.
 
 <hr>
 <h2 align="center"><b>Check out my projects!</b></h2>
@@ -40,5 +40,10 @@ I'm a Software Engineer who is always learning new languages, frameworks, and te
 <p align="center">
     <a href="https://prgportfolio.com" target="_blank"><img src="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/raw/main/docs/images/prg_optimized.png" alt="Optimized" width="138" height="51" /></a>
 </p>
+<h2 align="center"><b>📝 My Latest Articles on Medium</b></h2>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/3" alt="Recent Article 3"> 
 
 <!-- End README -->
