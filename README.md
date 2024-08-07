@@ -40,12 +40,14 @@ I'm a Software Engineer who is always learning new languages, frameworks, and te
 <p align="center">
     <a href="https://prgportfolio.com" target="_blank"><img src="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/raw/main/docs/images/prg_optimized.png" alt="Optimized" width="138" height="51" /></a>
 </p>
-<h2 align="center"><b>📝 My Latest Articles on Medium</b></h2>
+<hr>
+<h2 align="center"><b>Check out my latest articles on Medium</b></h2>
 <p align="center">
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/0" alt="Recent Article 0"> 
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/1" alt="Recent Article 1"> 
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/2" alt="Recent Article 2"> 
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/3" alt="Recent Article 3">
 </p>
+<hr>
 
 <!-- End README -->
