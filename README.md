@@ -25,6 +25,14 @@ I'm a Software Engineer who is always learning new languages, frameworks, and te
     <a href="https://github.com/scottgriv/Portfolio-Website" target="_blank"><img src="./docs/images/banners/scottgriv-banner_small-rounded.png"alt="Portfolio Website Banner" width="400" height="128"/></a>
 </div>
 <hr>
+<h2 align="center"><b>Check out my latest articles on Medium</b></h2>
+<p align="center">
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/0" alt="Recent Article 0"> 
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/1" alt="Recent Article 1"> 
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/2" alt="Recent Article 2"> 
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/3" alt="Recent Article 3">
+</p>
+<hr>
 <h2 align="center"><b>Check out my socials and other content!</b></h2>
 <p align="center">
     <a href="https://stackoverflow.com/users/3092847" target="_blank"><img align="center" src="./docs/images/socials/stack-overflow.svg" alt="Stack Overflow" height="40" width="40" /></a>&nbsp;&nbsp;
@@ -39,14 +47,6 @@ I'm a Software Engineer who is always learning new languages, frameworks, and te
 <h3 align="center"><b>I couldn't categorize my GitHub projects, so I made a system to do it for me:</b></h3>
 <p align="center">
     <a href="https://prgportfolio.com" target="_blank"><img src="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/raw/main/docs/images/prg_optimized.png" alt="Optimized" width="138" height="51" /></a>
-</p>
-<hr>
-<h2 align="center"><b>Check out my latest articles on Medium</b></h2>
-<p align="center">
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/0" alt="Recent Article 0"> 
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/1" alt="Recent Article 1"> 
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/2" alt="Recent Article 2"> 
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/3" alt="Recent Article 3">
 </p>
 <hr>
 
