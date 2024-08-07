@@ -48,6 +48,5 @@ I'm a Software Engineer who is always learning new languages, frameworks, and te
 <p align="center">
     <a href="https://prgportfolio.com" target="_blank"><img src="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/raw/main/docs/images/prg_optimized.png" alt="Optimized" width="138" height="51" /></a>
 </p>
-<hr>
 
 <!-- End README -->
