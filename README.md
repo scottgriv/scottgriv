@@ -27,7 +27,7 @@ I'm a Software Engineer who is always learning new languages, frameworks, and te
 <hr>
 <h2 align="center"><b>Check out my latest articles on Medium</b></h2>
 <p align="center">
-    <img src="https://github-read-medium.vercel.app/latest?username=scottgrivner&limit=6&theme=blue-green"/>
+    <img src="https://github-read-medium.vercel.app/latest?username=scottgrivner&limit=6&theme=algolia"/>
 </p>
 <hr>
 <h2 align="center"><b>Check out my socials and other content!</b></h2>
