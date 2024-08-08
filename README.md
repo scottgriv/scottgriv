@@ -26,6 +26,12 @@ I'm a Software Engineer who is always learning new languages, frameworks, and te
 </div>
 <hr>
 <h2 align="center"><b>Check out my latest articles on Medium</b></h2>
+
+<!-- ![Pahlevikun's blog](https://github-read-medium.vercel.app/latest?username=scottgrivner&limit=6&theme=dark) -->
+
+<p align="center">
+    <img src="https://github-read-medium.vercel.app/latest?username=scottgrivner&limit=6&theme=nord"/>
+</p>
 <p align="center">
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/0" alt="Recent Article 0"> 
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@scottgrivner/1" alt="Recent Article 1"> 
