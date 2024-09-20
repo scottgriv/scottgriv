@@ -38,7 +38,6 @@ I'm a Software Engineer & Architect who is always learning new languages, framew
     <a href="https://medium.com/@scottgrivner" target="_blank"><img align="center" src="./docs/images/socials/medium.svg" alt="Medium" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="https://goodreads.com/scottgrivner" target="_blank"><img align="center" src="./docs/images/socials/goodreads.png" alt="Goodreads" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="https://codepen.io/scottgriv" target="_blank"><img align="center" src="./docs/images/socials/codepen.svg" alt="Code Pen" height="40" width="40" /></a>&nbsp;&nbsp;
-    <a href="https://marketplace.visualstudio.com/publishers/scottgriv" target="_blank"><img align="center" src="./docs/images/socials/vscode.svg" alt="Visual Studio Marketplace" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="https://www.buymeacoffee.com/scottgriv" target="_blank"><img align="center" src="./docs/images/socials/bmc.png" alt="Buy Me a Coffee" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
 <h3 align="center"><b>I couldn't categorize my GitHub projects, so I made a system to do it for me:</b></h3>
