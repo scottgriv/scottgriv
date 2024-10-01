@@ -3,7 +3,7 @@
 <h1 align="left">Hi, I'm Scott aka Griv <img src="./docs/images/wave.gif" width="25px">
 <img src="https://komarev.com/ghpvc/?username=scottgriv&color=155124&style=flat-square&label=Profile+Views"></h1>
 
-I'm a Software Engineer & Architect who is always learning new languages, frameworks, and technologies to solve problems creatively.
+I'm a Software Engineer & Architect who is always learning new languages, frameworks, databases, and technologies to solve problems creatively.
 
 - I enjoy exploring various disciplines to find innovative solutions for my projects.
 - I'm passionate about clean code, architecture, and UX/UI. I handle all my own design work, blending technology with art. I also have extensive experience in full-stack development, seamlessly integrating frontend and backend technologies.
