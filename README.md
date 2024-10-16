@@ -8,7 +8,8 @@ I'm a Software Engineer & Architect who is always learning new languages, framew
 - I enjoy exploring various disciplines to find innovative solutions for my projects.
 - I'm passionate about clean code, architecture, enterprise solutions, full-stack development, and UX/UI; I handle all of my own design work, blending technology with my artistic style.
 - I actively contribute to the open source community here on GitHub, assist developers on [Stack Overflow](https://stackoverflow.com/users/3092847), and write about technology on [Medium](https://medium.com/@scottgrivner) and [X](https://x.com/scottgrivner).
-- For learn more about me, visit my [Portfolio](https://scottgrivner.dev) and [Business](https://nightowllabs.io) websites. Thanks for stopping by!
+- For learn more about me, visit my [Portfolio](https://scottgrivner.dev) and [Business](https://nightowllabs.io) websites. 
+- Thanks for stopping by!
 
 <hr>
 <h2 align="center"><b>Check out my projects!</b></h2>
