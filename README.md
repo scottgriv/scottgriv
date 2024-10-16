@@ -6,7 +6,7 @@
 I'm a Software Engineer & Architect who is always learning new languages, frameworks, databases, and technologies to solve problems in a creative fashion.
 
 - I enjoy exploring various disciplines to find innovative solutions for my projects.
-- I'm passionate about clean code, architecture, and UX/UI. I handle all my own design work, blending technology with art. I also have extensive experience in full-stack development, seamlessly integrating frontend and backend technologies.
+- I'm passionate about clean code, architecture, enterprise solutions, full-stack development, and UX/UI; I handle all of my own design work, blending technology with my artistic style.
 - I actively contribute to the open source community here on GitHub, assist developers on [Stack Overflow](https://stackoverflow.com/users/3092847), and write about technology on [Medium](https://medium.com/@scottgrivner) and [X](https://x.com/scottgrivner).
 - For more information about me, visit my [Portfolio](https://scottgrivner.dev) and [Business](https://nightowllabs.io) websites.
 
