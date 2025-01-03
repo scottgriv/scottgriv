@@ -3,8 +3,11 @@
 <h1 align="left">Hi, I'm Scott aka Griv <img src="./docs/images/wave.gif" width="25px">
 <img src="https://komarev.com/ghpvc/?username=scottgriv&color=155124&style=flat-square&label=Profile+Views"></h1>
 
-I'm a Software Engineer & Architect who is always learning new languages, frameworks, databases, and technologies to solve problems in a creative fashion.
+I'm a Software Engineer and Architect with a passion for continually learning new languages, frameworks, databases, and technologies to craft creative solutions to complex problems.
 
+My goal is to inspire positivity and discover innovative ways to bridge the gap between software and the real world.
+
+<h2>Some details about me:</h2>
 - I enjoy exploring various disciplines to find innovative solutions for my projects.
 - I'm passionate about clean code, architecture, enterprise solutions, full-stack development, and UX/UI; I handle all of my own design work, blending technology with my artistic style.
 - I actively contribute to the open source community here on GitHub, assist developers on [Stack Overflow](https://stackoverflow.com/users/3092847), and write about technology on [Medium](https://medium.com/@scottgrivner) and [X](https://x.com/scottgrivner).
