@@ -9,7 +9,7 @@ My goal is to inspire positivity and discover innovative ways to bridge the gap 
 
 ## Some details about me:
 
-- I enjoy exploring various disciplines to find innovative solutions for my projects.
+- I enjoy exploring various disciplines to find innovative solutions for my projects—forever a learner, pejoratively, a "nerd."
 - I'm passionate about clean code, architecture, enterprise solutions, full-stack development, and UX/UI; I handle all of my own design work, blending technology with my artistic style.
 - I actively contribute to the open source community here on GitHub, assist developers on [Stack Overflow](https://stackoverflow.com/users/3092847), and write about technology on [Medium](https://medium.com/@scottgrivner) and [X](https://x.com/scottgrivner).
 - To learn more about me, please visit my [Portfolio](https://scottgrivner.dev) and [Business](https://nightowllabs.io) websites. 
