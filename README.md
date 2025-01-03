@@ -1,7 +1,7 @@
 <!-- Begin README -->
 
-<h1 align="left">Hi, I'm Scott aka Griv <img src="./docs/images/wave.gif" width="25px">
-<img src="https://komarev.com/ghpvc/?username=scottgriv&color=155124&style=flat-square&label=Profile+Views"></h1>
+<h1 align="left">Hi, I'm Scott aka Griv <img src="./docs/images/wave.gif" width="25px"></h1>
+<!-- <img src="https://komarev.com/ghpvc/?username=scottgriv&color=155124&style=flat-square&label=Profile+Views"></h1>-->
 
 I'm a Software Engineer and Architect with a passion for continually learning new languages, frameworks, databases, and technologies to craft creative solutions to complex problems.
 
