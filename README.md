@@ -7,7 +7,8 @@ I'm a Software Engineer and Architect with a passion for continually learning ne
 
 My goal is to inspire positivity and discover innovative ways to bridge the gap between software and the real world.
 
-<h2>Some details about me:</h2>
+## Some details about me:
+
 - I enjoy exploring various disciplines to find innovative solutions for my projects.
 - I'm passionate about clean code, architecture, enterprise solutions, full-stack development, and UX/UI; I handle all of my own design work, blending technology with my artistic style.
 - I actively contribute to the open source community here on GitHub, assist developers on [Stack Overflow](https://stackoverflow.com/users/3092847), and write about technology on [Medium](https://medium.com/@scottgrivner) and [X](https://x.com/scottgrivner).
