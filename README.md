@@ -21,7 +21,7 @@ I'm a Software Engineer Architect passionate about crafting innovative, clean, a
 </div>
 
 
-<div align="center" style="display: grid; grid-template-columns: repeat(3, 2fr); gap: 1px;">
+<div align="center">
     <a href="https://reciperesizer.com" target="_blank">
         <img src="./docs/images/icons/recipe-resizer-icon-rounded.png" alt="Recipe Resizer" width="100" height="100"/>
     </a>
