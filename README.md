@@ -3,20 +3,10 @@
 <h1 align="left">Hi, I'm Scott aka Griv <img src="./docs/images/wave.gif" width="25px"></h1>
 <!-- <img src="https://komarev.com/ghpvc/?username=scottgriv&color=155124&style=flat-square&label=Profile+Views"></h1>-->
 
-I'm a Software Engineer and Architect with a passion for continually learning new languages, frameworks, databases, and technologies to craft creative solutions to complex problems.
-
-My goal is to inspire positivity and discover innovative ways to bridge the gap between software and the real world.
-
-## Some details about me:
-
-- I enjoy exploring various disciplines to find innovative solutions for my projects.
-- I'm passionate about clean code, architecture, enterprise solutions, full-stack development, and UX/UI; I handle all of my own design work, blending technology with my artistic style.
-- I actively contribute to the open source community here on GitHub, assist developers on [Stack Overflow](https://stackoverflow.com/users/3092847), and write about technology on [Medium](https://medium.com/@scottgrivner) and [X](https://x.com/scottgrivner).
-- To learn more about me, please visit my [Portfolio](https://scottgrivner.dev) and [Business](https://nightowllabs.io) websites. 
-- Thanks for stopping by and have a great day!
+I'm a Software Engineer Architect passionate about crafting innovative, clean, and user-focused solutions. I blend technology with artistic design, explore diverse disciplines, and contribute to open source and developer communities. Learn more on my Portfolio or Business websites—thanks for visiting!
 
 <hr>
-<h2 align="center"><b>Check out my projects!</b></h2>
+<h3 align="center"><b>Projects</b></h3>
 <div align="center">
     <a href="https://reciperesizer.com" target="_blank"><img src="./docs/images/banners/recipe-resizer-banner_small-rounded.png" alt="Recipe Resizer Banner" width="400" height="128"/></a>
     <a href="https://beeheard.com" target="_blank"><img src="./docs/images/banners/bee-heard-banner_small-rounded.png" alt="Bee Heard Banner" width="400" height="128"/></a>
@@ -29,11 +19,29 @@ My goal is to inspire positivity and discover innovative ways to bridge the gap 
     <a href="https://github.com/scottgriv/Business-Website" target="_blank"><img src="./docs/images/banners/nol-banner_small-rounded.png"alt="Business Website Banner" width="400" height="128"/></a>
     <a href="https://github.com/scottgriv/Portfolio-Website" target="_blank"><img src="./docs/images/banners/scottgriv-banner_small-rounded.png"alt="Portfolio Website Banner" width="400" height="128"/></a>
 </div>
-<hr>
-<h2 align="center"><b>Check out my latest articles on Medium</b></h2>
-<p align="center">
-    <img src="https://github-read-medium.vercel.app/latest?username=scottgrivner&limit=6&theme=graywhite"/>
-</p>
+
+
+<div align="center" style="display: grid; grid-template-columns: repeat(3, 2fr); gap: 1px;">
+    <a href="https://reciperesizer.com" target="_blank">
+        <img src="./docs/images/icons/recipe-resizer-icon-rounded.png" alt="Recipe Resizer" width="100" height="100"/>
+    </a>
+    <a href="https://beeheard.com" target="_blank">
+        <img src="./docs/images/icons/recipe-resizer-icon-rounded.png" alt="Recipe Resizer" width="100" height="100"/>
+    </a>
+    <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines" target="_blank">
+        <img src="./docs/images/icons/recipe-resizer-icon-rounded.png" alt="Recipe Resizer" width="100" height="100"/>
+    </a>
+    <a href="https://reciperesizer.com" target="_blank">
+        <img src="./docs/images/icons/recipe-resizer-icon-rounded.png" alt="Recipe Resizer" width="100" height="100"/>
+    </a>
+    <a href="https://beeheard.com" target="_blank">
+        <img src="./docs/images/icons/recipe-resizer-icon-rounded.png" alt="Recipe Resizer" width="100" height="100"/>
+    </a>
+    <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines" target="_blank">
+        <img src="./docs/images/icons/recipe-resizer-icon-rounded.png" alt="Recipe Resizer" width="100" height="100"/>
+    </a>
+    </a>
+</div>
 <hr>
 <h2 align="center"><b>Check out my socials and other content!</b></h2>
 <p align="center">

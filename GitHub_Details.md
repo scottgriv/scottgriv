@@ -41,3 +41,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scottgriv&show_icons=true&locale=en" alt="scottgriv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scottgriv&" alt="scottgriv" /></p>
+
+<h2 align="center"><b>Check out my latest articles on Medium</b></h2>
+<p align="center">
+    <img src="https://github-read-medium.vercel.app/latest?username=scottgrivner&limit=6&theme=graywhite"/>
+</p>
