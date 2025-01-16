@@ -3,10 +3,10 @@
 <h1 align="left">Hi, I'm Scott aka Griv <img src="./docs/images/wave.gif" width="25px"></h1>
 <!-- <img src="https://komarev.com/ghpvc/?username=scottgriv&color=155124&style=flat-square&label=Profile+Views"></h1>-->
 
-I'm a Software Engineer Architect passionate about crafting innovative, clean, and user-focused solutions. I blend technology with artistic design, explore diverse disciplines, and contribute to open source and developer communities. Learn more on my Portfolio or Business websites—thanks for visiting!
+I'm a Software Engineer Architect passionate about crafting innovative, clean, and user-focused solutions. I blend technology with artistic design, explore diverse disciplines, [write about my experience](https://medium.com/@scottgrivner), and contribute to open source and [developer communities](https://stackoverflow.com/users/3092847). Learn more on my [Portfolio](https://scottgrivner.dev) or [Business](https://nightowllabs.io) websites—thanks for visiting!
 
 <hr>
-<h3 align="center"><b>Projects</b></h3>
+<h3 align="center">Projects</h3>
 <div align="center">
     <a href="https://reciperesizer.com" target="_blank"><img src="./docs/images/banners/recipe-resizer-banner_small-rounded.png" alt="Recipe Resizer Banner" width="400" height="128"/></a>
     <a href="https://beeheard.com" target="_blank"><img src="./docs/images/banners/bee-heard-banner_small-rounded.png" alt="Bee Heard Banner" width="400" height="128"/></a>
@@ -19,31 +19,8 @@ I'm a Software Engineer Architect passionate about crafting innovative, clean, a
     <a href="https://github.com/scottgriv/Business-Website" target="_blank"><img src="./docs/images/banners/nol-banner_small-rounded.png"alt="Business Website Banner" width="400" height="128"/></a>
     <a href="https://github.com/scottgriv/Portfolio-Website" target="_blank"><img src="./docs/images/banners/scottgriv-banner_small-rounded.png"alt="Portfolio Website Banner" width="400" height="128"/></a>
 </div>
-
-
-<div align="center">
-    <a href="https://reciperesizer.com" target="_blank">
-        <img src="./docs/images/icons/recipe-resizer-icon-rounded.png" alt="Recipe Resizer" width="100" height="100"/>
-    </a>
-    <a href="https://beeheard.com" target="_blank">
-        <img src="./docs/images/icons/recipe-resizer-icon-rounded.png" alt="Recipe Resizer" width="100" height="100"/>
-    </a>
-    <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines" target="_blank">
-        <img src="./docs/images/icons/recipe-resizer-icon-rounded.png" alt="Recipe Resizer" width="100" height="100"/>
-    </a>
-    <a href="https://reciperesizer.com" target="_blank">
-        <img src="./docs/images/icons/recipe-resizer-icon-rounded.png" alt="Recipe Resizer" width="100" height="100"/>
-    </a>
-    <a href="https://beeheard.com" target="_blank">
-        <img src="./docs/images/icons/recipe-resizer-icon-rounded.png" alt="Recipe Resizer" width="100" height="100"/>
-    </a>
-    <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines" target="_blank">
-        <img src="./docs/images/icons/recipe-resizer-icon-rounded.png" alt="Recipe Resizer" width="100" height="100"/>
-    </a>
-    </a>
-</div>
 <hr>
-<h2 align="center"><b>Check out my socials and other content!</b></h2>
+<h3 align="center">Socials</h3>
 <p align="center">
     <a href="https://stackoverflow.com/users/3092847" target="_blank"><img align="center" src="./docs/images/socials/stack-overflow.svg" alt="Stack Overflow" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="https://linkedin.com/in/scottgrivner/" target="_blank"><img align="center" src="./docs/images/socials//linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;
@@ -53,7 +30,7 @@ I'm a Software Engineer Architect passionate about crafting innovative, clean, a
     <a href="https://codepen.io/scottgriv" target="_blank"><img align="center" src="./docs/images/socials/codepen.svg" alt="Code Pen" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="https://www.buymeacoffee.com/scottgriv" target="_blank"><img align="center" src="./docs/images/socials/bmc.png" alt="Buy Me a Coffee" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
-<h3 align="center"><b>I couldn't categorize my GitHub projects, so I made a system to do it for me:</b></h3>
+<h4 align="center">I couldn't categorize my GitHub projects, so I made a system to do it for me:</h4>
 <p align="center">
     <a href="https://prgportfolio.com" target="_blank"><img src="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/raw/main/docs/images/prg_optimized.png" alt="Optimized" width="138" height="51" /></a>
 </p>
