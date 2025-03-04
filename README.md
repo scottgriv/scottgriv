@@ -3,7 +3,9 @@
 <h1 align="left">Hi, I'm Scott aka Griv <img src="./docs/images/wave.gif" width="25px"></h1>
 <!-- <img src="https://komarev.com/ghpvc/?username=scottgriv&color=155124&style=flat-square&label=Profile+Views"></h1>-->
 
-I'm a Software Engineer & Architect passionate about crafting innovative, clean, and user-focused solutions. I blend technology with artistic design, explore diverse disciplines, [write about my experiences](https://medium.com/@scottgrivner), and contribute to open source and [developer communities](https://stackoverflow.com/users/3092847). 
+I'm a Software Engineer & Architect passionate about crafting innovative, clean, and user-focused solutions. 
+
+I blend technology with artistic design, explore diverse disciplines, [write about my experiences](https://medium.com/@scottgrivner), and contribute to open source and [developer communities](https://stackoverflow.com/users/3092847). 
 
 Thanks for visiting!
 
@@ -32,7 +34,7 @@ Thanks for visiting!
     <a href="https://codepen.io/scottgriv" target="_blank"><img align="center" src="./docs/images/socials/codepen.svg" alt="Code Pen" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="https://www.buymeacoffee.com/scottgriv" target="_blank"><img align="center" src="./docs/images/socials/bmc.png" alt="Buy Me a Coffee" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
-<h4 align="center">I couldn't categorize my GitHub projects, so I made a system to do it for me:</h4>
+<h4 align="center">I couldn't categorize my projects here on GitHub, so I made a system to do it for me:</h4>
 <p align="center">
     <a href="https://prgportfolio.com" target="_blank"><img src="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/raw/main/docs/images/prg_optimized.png" alt="Optimized" width="138" height="51" /></a>
 </p>
