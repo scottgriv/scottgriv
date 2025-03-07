@@ -10,7 +10,7 @@ I blend technology with artistic design, explore diverse disciplines, [write abo
 Thanks for visiting!
 
 <hr>
-<h3 align="center">Projects</h3>
+<h2 align="center">Projects</h2>
 <div align="center">
     <a href="https://reciperesizer.com" target="_blank"><img src="./docs/images/banners/recipe-resizer-banner_small-rounded.png" alt="Recipe Resizer Banner" width="400" height="128"/></a>
     <a href="https://beeheard.com" target="_blank"><img src="./docs/images/banners/bee-heard-banner_small-rounded.png" alt="Bee Heard Banner" width="400" height="128"/></a>
@@ -24,7 +24,7 @@ Thanks for visiting!
     <a href="https://github.com/scottgriv/Portfolio-Website" target="_blank"><img src="./docs/images/banners/scottgriv-banner_small-rounded.png"alt="Portfolio Website Banner" width="400" height="128"/></a> -->
 </div>
 <hr>
-<h3 align="center">Socials</h3>
+<h2 align="center">Socials</h2>
 <p align="center">
     <a href="https://stackoverflow.com/users/3092847" target="_blank"><img align="center" src="./docs/images/socials/stack-overflow.svg" alt="Stack Overflow" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="https://linkedin.com/in/scottgrivner/" target="_blank"><img align="center" src="./docs/images/socials//linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;
@@ -34,7 +34,7 @@ Thanks for visiting!
     <a href="https://codepen.io/scottgriv" target="_blank"><img align="center" src="./docs/images/socials/codepen.svg" alt="Code Pen" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="https://www.buymeacoffee.com/scottgriv" target="_blank"><img align="center" src="./docs/images/socials/bmc.png" alt="Buy Me a Coffee" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
-<h4 align="center">I couldn't categorize my projects here on GitHub, so I made a system to do it for me:</h4>
+<h3 align="center">I couldn't categorize my projects here on GitHub, so I made a system to do it for me:</h3>
 <p align="center">
     <a href="https://prgportfolio.com" target="_blank"><img src="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/raw/main/docs/images/prg_optimized.png" alt="Optimized" width="138" height="51" /></a>
 </p>
