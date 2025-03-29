@@ -3,7 +3,7 @@
 <h1 align="left">Hi, I'm Scott aka Griv <img src="./docs/images/wave.gif" width="25px"></h1>
 <!-- <img src="https://komarev.com/ghpvc/?username=scottgriv&color=155124&style=flat-square&label=Profile+Views"></h1>-->
 
-I'm a Technologist passionate about crafting innovative, clean, and user-focused solutions. 
+I'm a **Technologist** passionate about crafting *innovative, clean, and user-focused* solutions. 
 
 I blend technology with artistic design, explore diverse disciplines, [write about my experiences](https://medium.com/@scottgrivner), and contribute to [open source](https://github.com/scottgriv?tab=repositories) and [developer communities](https://stackoverflow.com/users/3092847). 
 
