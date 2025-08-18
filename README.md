@@ -28,7 +28,7 @@ Thanks for visiting! Feel free to reach out if you have any questions about my w
 <p align="center">
     <a href="https://stackoverflow.com/users/3092847" target="_blank"><img align="center" src="./docs/images/socials/stack-overflow.svg" alt="Stack Overflow" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="https://linkedin.com/in/scottgrivner/" target="_blank"><img align="center" src="./docs/images/socials//linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;
-    <a href="https://x.com/scottgrivner" target="_blank"><img align="center" src="./docs/images/socials/x.png" alt="X" height="43" width="43" /></a>&nbsp;&nbsp;
+    <a href="https://x.com/scottgriv" target="_blank"><img align="center" src="./docs/images/socials/x.png" alt="X" height="43" width="43" /></a>&nbsp;&nbsp;
     <a href="https://medium.com/@scottgrivner" target="_blank"><img align="center" src="./docs/images/socials/medium.svg" alt="Medium" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="https://goodreads.com/scottgrivner" target="_blank"><img align="center" src="./docs/images/socials/goodreads.png" alt="Goodreads" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="https://codepen.io/scottgriv" target="_blank"><img align="center" src="./docs/images/socials/codepen.svg" alt="Code Pen" height="40" width="40" /></a>&nbsp;&nbsp;
