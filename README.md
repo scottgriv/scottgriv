@@ -9,6 +9,12 @@ I blend technology with artistic design, explore diverse disciplines, [write abo
 
 Thanks for visiting! Feel free to reach out if you have any questions about my work.
 
+P.S. If you like to cook, or you're just getting into it, please consider checking out my iOS app!
+
+<p align="center">
+    <a href="https://apps.apple.com/us/app/recipe-resizer-manage-recipes/id6450848695" target="_blank"><img align="center" src="./docs/images/banners/recipe_resizer_ad-rounded.png" alt="Recipe Resizer" height="315" width="600" /></a>
+</p>
+
 <hr>
 <h2 align="center">Projects</h2>
 <div align="center">
