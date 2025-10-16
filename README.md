@@ -9,12 +9,6 @@ I blend technology with artistic design, explore diverse disciplines, [write abo
 
 Thanks for visiting! Feel free to reach out if you have any questions about my work.
 
-P.S. If you like to cook, or you're just getting into it, please consider checking out my iOS app!
-
-<p align="center">
-    <a href="https://apps.apple.com/us/app/recipe-resizer-manage-recipes/id6450848695" target="_blank"><img align="center" src="./docs/images/banners/recipe_resizer_ad-rounded.png" alt="Recipe Resizer" height="315" width="600" /></a>
-</p>
-
 <hr>
 <h2 align="center">Projects</h2>
 <div align="center">
@@ -26,19 +20,13 @@ P.S. If you like to cook, or you're just getting into it, please consider checki
     <a href="https://github.com/scottgriv/River-Charts" target="_blank"><img src="./docs/images/banners/river-charts-banner_small-rounded.png" alt="River Charts Banner" width="400" height="128"/></a>
     <a href="https://github.com/scottgriv/Palm-Tree" target="_blank"><img src="./docs/images/banners/palm-tree-banner_small-rounded.png"alt="Palm Tree Banner" width="400" height="128"/></a>
     <a href="https://github.com/scottgriv/Launch-Portals" target="_blank"><img src="./docs/images/banners/launch-portals-banner_small-rounded.png"alt="Launch Portals Banner" width="400" height="128"/></a>
-    <!-- <a href="https://github.com/scottgriv/Business-Website" target="_blank"><img src="./docs/images/banners/nol-banner_small-rounded.png"alt="Business Website Banner" width="400" height="128"/></a>
-    <a href="https://github.com/scottgriv/Portfolio-Website" target="_blank"><img src="./docs/images/banners/scottgriv-banner_small-rounded.png"alt="Portfolio Website Banner" width="400" height="128"/></a> -->
+    <a href="https://nightowllabs.io" target="_blank"><img src="./docs/images/banners/nol-banner_small-rounded.png"alt="Night Owl Labs Banner" width="400" height="128"/></a>
+    <a href="https://scottgrivner.dev" target="_blank"><img src="./docs/images/banners/portfolio-banner_small-rounded.png"alt="Portfolio Banner" width="400" height="128"/></a>
 </div>
 <hr>
 <h2 align="center">Socials</h2>
 <p align="center">
-    <a href="https://stackoverflow.com/users/3092847" target="_blank"><img align="center" src="./docs/images/socials/stack-overflow.svg" alt="Stack Overflow" height="40" width="40" /></a>&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/scottgrivner/" target="_blank"><img align="center" src="./docs/images/socials//linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;
-    <a href="https://x.com/scottgriv" target="_blank"><img align="center" src="./docs/images/socials/x.png" alt="X" height="43" width="43" /></a>&nbsp;&nbsp;
-    <a href="https://medium.com/@scottgrivner" target="_blank"><img align="center" src="./docs/images/socials/medium.svg" alt="Medium" height="40" width="40" /></a>&nbsp;&nbsp;
-    <a href="https://goodreads.com/scottgrivner" target="_blank"><img align="center" src="./docs/images/socials/goodreads.png" alt="Goodreads" height="40" width="40" /></a>&nbsp;&nbsp;
-    <a href="https://codepen.io/scottgriv" target="_blank"><img align="center" src="./docs/images/socials/codepen.svg" alt="Code Pen" height="40" width="40" /></a>&nbsp;&nbsp;
-    <a href="https://www.buymeacoffee.com/scottgriv" target="_blank"><img align="center" src="./docs/images/socials/bmc.png" alt="Buy Me a Coffee" height="40" width="40" /></a>&nbsp;&nbsp;
+    <a href="https://linktr.ee/scottgriv" target="_blank"><img align="center" src="./docs/images/socials/linktree_button-rounded.png" alt="Linktree" width="25%" /></a>&nbsp;&nbsp;
 </p>
 <h3 align="center">I couldn't categorize my projects here on GitHub, so I made a system to do it for me:</h3>
 <p align="center">
