@@ -26,7 +26,7 @@ Thanks for visiting! Feel free to reach out if you have any questions about my w
 <hr>
 <h2 align="center">Socials</h2>
 <p align="center">
-    <a href="https://linktr.ee/scottgriv" target="_blank"><img align="center" src="./docs/images/socials/linktree_button-rounded.png" alt="Linktree" width="25%" /></a>&nbsp;&nbsp;
+    <a href="https://linktr.ee/scottgriv" target="_blank"><img align="center" src="./docs/images/socials/linktree_button-rounded.png" alt="Linktree" width="227" height="70" /></a>&nbsp;&nbsp;
 </p>
 <h3 align="center">I couldn't categorize my projects here on GitHub, so I made a system to do it for me:</h3>
 <p align="center">
