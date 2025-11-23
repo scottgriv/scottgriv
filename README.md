@@ -18,7 +18,7 @@ Thanks for visiting! Feel free to reach out if you have any questions about my w
     <a href="https://github.com/scottgriv/Post.e" target="_blank"><img src="./docs/images/banners/post-e-banner_small-rounded.png" alt="Post.e Banner" width="400" height="128"/></a>
     <a href="https://github.com/scottgriv/Dark-Castle-Theme" target="_blank"><img src="./docs/images/banners/dark-castle-banner_small-rounded.png"alt="Dark Castle Theme" width="400" height="128"/></a>
     <a href="https://github.com/scottgriv/River-Charts" target="_blank"><img src="./docs/images/banners/river-charts-banner_small-rounded.png" alt="River Charts Banner" width="400" height="128"/></a>
-    <a href="https://github.com/scottgriv/Palm-Tree" target="_blank"><img src="./docs/images/banners/palm-tree-banner_small-rounded.png"alt="Palm Tree Banner" width="400" height="128"/></a>
+    <a href="https://github.com/Night-Owl-Labs/Palm-Tree" target="_blank"><img src="./docs/images/banners/palm-tree-banner_small-rounded.png"alt="Palm Tree Banner" width="400" height="128"/></a>
     <a href="https://github.com/scottgriv/Launch-Portals" target="_blank"><img src="./docs/images/banners/launch-portals-banner_small-rounded.png"alt="Launch Portals Banner" width="400" height="128"/></a>
     <a href="https://nightowllabs.io" target="_blank"><img src="./docs/images/banners/nol-banner_small-rounded.png"alt="Night Owl Labs Banner" width="400" height="128"/></a>
     <a href="https://scottgrivner.dev" target="_blank"><img src="./docs/images/banners/portfolio-banner_small-rounded.png"alt="Portfolio Banner" width="400" height="128"/></a>
